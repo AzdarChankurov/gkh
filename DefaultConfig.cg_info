@@ -1,0 +1,160 @@
+I-Logix-RPY-Archive version 8.15.0 * 202002261110
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 28;
+	- value = "DefaultComponent\\DefaultConfig\\Add_Tenants_form.cpp" 6.1.2020::11:9:56
+	"DefaultComponent\\DefaultConfig\\Add_Tenants_form.h" 6.1.2020::11:9:56
+	"DefaultComponent\\DefaultConfig\\Authorisation_form.cpp" 6.1.2020::11:9:56
+	"DefaultComponent\\DefaultConfig\\Authorisation_form.h" 6.1.2020::11:9:56
+	"DefaultComponent\\DefaultConfig\\Button_Add.cpp" 6.1.2020::11:9:56
+	"DefaultComponent\\DefaultConfig\\Button_Add.h" 6.1.2020::11:9:56
+	"DefaultComponent\\DefaultConfig\\Button_Delete.cpp" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Button_Delete.h" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Button_Edit.cpp" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Button_Edit.h" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\DataBaseTable_Tenants.cpp" 6.1.2020::11:9:56
+	"DefaultComponent\\DefaultConfig\\DataBaseTable_Tenants.h" 6.1.2020::11:9:56
+	"DefaultComponent\\DefaultConfig\\Default.cpp" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Default.h" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Delete_Tenants_form.cpp" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Delete_Tenants_form.h" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Dispatcher.cpp" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Dispatcher.h" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Edit_Tenants_form.cpp" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Edit_Tenants_form.h" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Electrician.cpp" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Electrician.h" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Main_form.cpp" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Main_form.h" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Plumber.cpp" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Plumber.h" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Tentans.cpp" 6.1.2020::11:9:57
+	"DefaultComponent\\DefaultConfig\\Tentans.h" 6.1.2020::11:9:57
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 2;
+	- value = "GUID 9982b513-d8bd-471d-a38d-4694c86129ff" "GUID 8537e76e-05d5-4150-88a6-a6377e67b9d4"
+	"GUID d8e77521-611f-49c5-a1e2-66e92931ee4a" "GUID 8537e76e-05d5-4150-88a6-a6377e67b9d4"
+	
+}
+- size = 15;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\GKH_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Button_Delete";
+	- _id = GUID 1c6867a7-07f2-4492-9727-9e8945d65963;
+}
+- genTime = 6.1.2020::11:9:58;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\GKH_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Delete_Tenants_form";
+	- _id = GUID 7053e3ec-fb1b-40d5-baa5-d0826c1261e5;
+}
+- genTime = 6.1.2020::11:9:58;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\GKH_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Plumber";
+	- _id = GUID 53de3141-03f0-406d-86c6-bd0f9af3e086;
+}
+- genTime = 6.1.2020::11:9:58;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\GKH_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Edit_Tenants_form";
+	- _id = GUID d2db237c-ce8d-48ef-acc3-262dd198556f;
+}
+- genTime = 6.1.2020::11:9:58;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\GKH_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Authorisation_form";
+	- _id = GUID 6ffcbb74-d85b-450b-8999-410e350d17c7;
+}
+- genTime = 6.1.2020::11:9:57;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\GKH_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Button_Edit";
+	- _id = GUID 8626c367-6017-4ae0-9114-1968e87298f7;
+}
+- genTime = 6.1.2020::11:9:58;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\GKH_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "DataBaseTable_Tenants";
+	- _id = GUID 262c49c7-a800-455b-b966-1b65954c8e5f;
+}
+- genTime = 6.1.2020::11:9:57;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\GKH_rpy\\Default.sbsx";
+	- _name = "Default";
+	- _id = GUID 9982b513-d8bd-471d-a38d-4694c86129ff;
+}
+- genTime = 6.1.2020::11:9:58;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\GKH_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Tentans";
+	- _id = GUID fa9fb62c-df45-49dd-ac53-9b7a8e02d266;
+}
+- genTime = 6.1.2020::11:9:58;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\GKH_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Button_Add";
+	- _id = GUID 727e856e-0437-476d-92dd-1e4fff0502b8;
+}
+- genTime = 6.1.2020::11:9:58;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\GKH_rpy\\DefaultComponent.cmpx";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID 74d4303c-ac5a-4ea4-b2f1-e56afc0c4d69;
+}
+- genTime = 6.1.2020::11:9:57;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\GKH_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Dispatcher";
+	- _id = GUID d71b14fc-c28c-45a0-b279-e37052ec3c20;
+}
+- genTime = 6.1.2020::11:9:58;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\GKH_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Main_form";
+	- _id = GUID 18fbb98a-5691-43b2-b80d-4bc620d259e0;
+}
+- genTime = 6.1.2020::11:9:57;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\GKH_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Electrician";
+	- _id = GUID d0f4a70e-49c3-49a5-91b4-de8cc12c6e5d;
+}
+- genTime = 6.1.2020::11:9:58;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\GKH_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Add_Tenants_form";
+	- _id = GUID f6eaa662-4566-4e89-916f-a8477248d9d4;
+}
+- genTime = 6.1.2020::11:9:57;
+
